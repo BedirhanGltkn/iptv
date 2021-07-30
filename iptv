@@ -1,13 +1,2 @@
-#EXTINF:-1 tvg-name="Bein Sports 1 HD" " group-title="Spor",Bein Sports 1 HD
-http://panelvip1.com:8080/gokhan/123456/65245#EXTINF:-1 tvg-name="Bein Sports 1 HD (Yedek)" " group-title="Spor",Bein Sports 1 HD (Yedek)
-http://ostv.site:8080/zero/zero/4
-#EXTINF:-1 tvg-name="Bein Sports 2 HD" " group-title="Spor",Bein Sports 2 HD
-http://supersonictv.live:25461/dalvin/dalvin/82645
-#EXTINF:-1 tvg-name="Bein Sports 3 HD" " group-title="Spor",Bein Sports 3 HD
-http://supersonictv.live:25461/dalvin/dalvin/82646
-#EXTINF:-1 tvg-name="TRT Spor HD [720p]" " group-title="Spor",TRT Spor HD [720p]
-https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT Spor [480p]" " group-title="Spor",TRT Spor [480p]
-https://tv-trtspor1.live.trt.com.tr/master_480.m3u8
-#EXTINF:-1 tvg-name="Disney Junior" " group-title="Çoçuk",Disney Junior
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/17238
+#EXTINF:-1 tvg-name="Episode 1 (Türkçe Altyazılı)" " group-title="Anime: Himouto! Umaru-chan"
+https://vd198.mycdn.me/?expires=1627724687680&srcIp=88.254.57.23&srcAg=CHROME_OPERA&ms=45.136.22.6&type=3&sig=tYezcrfa6IE&ct=4&urls=185.226.52.4&clientType=0&id=51164219960&bytes=0-2842
