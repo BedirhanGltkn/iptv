@@ -1,38 +1,27 @@
+#EXTM3U
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 1
 https://delivery-node-janan.voe-network.net/hls/6oarn5p6xi33cszcrzo5fkzqv2xil3l73o6ta7tg6mhpjpblpmkg4ls2jloq/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 2
-#EXTGRP: Anime:
 https://delivery-node-sahlah.voe-network.net/hls/6oarn5x6xi33cszcrzo5f2bv56usfh3wrewq5afe5auxbygd6j3pulsmw3dq/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 3
-#EXTGRP: Anime:
 https://delivery-node-ula.voe-network.net/hls/6oarn4h6xi33cszcrzo5flrm5lwla4ih4tpoz5c4qfbl7duopsk6tikrrthq/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 4
-#EXTGRP: Anime:
 https://delivery-node-ghannam.voe-network.net/hls/6oarn4x6xi33cszcrzo5fkje5c3zgm3allin4jag6gj7ukvadspknvemchjq/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 5
-#EXTGRP: Anime:
 https://delivery-node-fakhoury.voe-network.net/hls/6oarn3h6xi33cszcrzo5fojcvkbmavh6r57t6gsin2nzkbd26koc6ulah4tq/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 6
-#EXTGRP: Anime:
 https://delivery-node-junayd.voe-network.net/hls/6oarn4p6xi33cszcrzo5fmjd4ercjoxezoxslvwtbltd5vz73uh7qkvmy7xa/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 7
-#EXTGRP: Anime:
 https://delivery-node-naser.voe-network.net/hls/6oarn2h6xi33cszcrzo5f3rb5jvoep43ddxda5f4r46qzaw2p2xif4iod2lq/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 8
-#EXTGRP: Anime:
 https://delivery-node-attia.voe-network.net/hls/6oarn2x6xi33cszcrzo5flbnxtto5cs6w2hvgt3lxvvq76xdqcsprisg4pbq/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 9
-#EXTGRP: Anime:
 https://delivery-node-dunyana.voe-network.net/hls/6oarnzh6xi33cszcrzo5f2boxfz4rfk4y74uf3suuzkohwnqdekmndtmdqoq/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 10
-#EXTGRP: Anime:
 https://delivery-node-masih.voe-network.net/hls/6oarnzp6xi33cszcrzo5fmjuwhcnvb3lss7irwfnxo344nzj5mf5aavufomq/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 11
-#EXTGRP: Anime:
 https://delivery-node-moghadam.voe-network.net/hls/6oarnyh6xi33cszcrzo5f3jow77qyx4oy3t6foqipenpj47riyeqoxxdzdrq/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode 12
-#EXTGRP: Anime:
 https://delivery-node-haddad.voe-network.net/hls/6oarnyp6xi33cszcrzo5f3rnwzjxtjlam7ia5e5quvptrlljrp3i3yig6htq/index-v1-a1.m3u8
 #EXTINF:-1,Himouto! Umaru-Chan | Episode OVA
-#EXTGRP: Anime:
 https://delivery-node-husam.voe-network.net/hls/6oarny76xi33cszcrzo5flluwre55vemdbl46bkczf4pacwtnijlqj4jdolq/index-v1-a1.m3u8
