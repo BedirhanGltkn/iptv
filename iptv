@@ -1,26 +1,26 @@
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 1
-https://delivery-node-janan.voe-network.net/hls/6oarn5p6xi33cszcrzo5fkzqv2xil3l73o6ta7tg6mhpjpblpmkg4ls2jloq/index-v1-a1.m3u8
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 2
-https://delivery-node-sahlah.voe-network.net/hls/6oarn5x6xi33cszcrzo5f2bv56usfh3wrewq5afe5auxbygd6j3pulsmw3dq/index-v1-a1.m3u8
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 3
-https://delivery-node-ula.voe-network.net/hls/6oarn4h6xi33cszcrzo5flrm5lwla4ih4tpoz5c4qfbl7duopsk6tikrrthq/index-v1-a1.m3u8
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 4
-https://delivery-node-ghannam.voe-network.net/hls/6oarn4x6xi33cszcrzo5fkje5c3zgm3allin4jag6gj7ukvadspknvemchjq/index-v1-a1.m3u8
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 5
-https://delivery-node-fakhoury.voe-network.net/hls/6oarn3h6xi33cszcrzo5fojcvkbmavh6r57t6gsin2nzkbd26koc6ulah4tq/index-v1-a1.m3u8
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 6
-https://delivery-node-junayd.voe-network.net/hls/6oarn4p6xi33cszcrzo5fmjd4ercjoxezoxslvwtbltd5vz73uh7qkvmy7xa/index-v1-a1.m3u8
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 7
-https://delivery-node-naser.voe-network.net/hls/6oarn2h6xi33cszcrzo5f3rb5jvoep43ddxda5f4r46qzaw2p2xif4iod2lq/index-v1-a1.m3u8
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 8
-https://delivery-node-attia.voe-network.net/hls/6oarn2x6xi33cszcrzo5flbnxtto5cs6w2hvgt3lxvvq76xdqcsprisg4pbq/index-v1-a1.m3u8
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 9
-https://delivery-node-dunyana.voe-network.net/hls/6oarnzh6xi33cszcrzo5f2boxfz4rfk4y74uf3suuzkohwnqdekmndtmdqoq/index-v1-a1.m3u8
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 10
-https://delivery-node-masih.voe-network.net/hls/6oarnzp6xi33cszcrzo5fmjuwhcnvb3lss7irwfnxo344nzj5mf5aavufomq/index-v1-a1.m3u8
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 11
-https://delivery-node-moghadam.voe-network.net/hls/6oarnyh6xi33cszcrzo5f3jow77qyx4oy3t6foqipenpj47riyeqoxxdzdrq/index-v1-a1.m3u8
-#EXTINF:-1,Himouto! Umaru-Chan | Episode 12
-https://delivery-node-haddad.voe-network.net/hls/6oarnyp6xi33cszcrzo5f3rnwzjxtjlam7ia5e5quvptrlljrp3i3yig6htq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 1" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 1
+https://s120.vidboo.com/6jmnrusoxuazsalrivyaby7obnk4f6phqvzr3q47iui7tlnjnvgnvkkzsrmq/v.mp4
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 2" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 2
+https://s137.vidboo.com/6jmnxtcoxuazsalrivyabyhilnha2etxesahqnd5uu3eybydpw2f6q3nnq5q/v.mp4
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 3" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 3
+https://s92.vidboo.com/6jmnxssoxuazsalrivyab6xriyvtj67kb3l2ieikhc7rbb5qqsdehr3e6xva/v.mp4
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 4" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 4
+https://www15.ff-01.com/token=Sa-Q_dkcRyGv9B9wmWVpCw/1628120952/95.70.0.0/145/8/d8/0b81b31446e6f146020d2d6f778b7d88-480p.mp4
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 5" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 5
+https://s137.vidboo.com/6jmnvscoxuazsalrivyab4nraurnqxtzrkiy7bltdxfoq5jlz4tjmbm7vecq/v.mp4
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 6" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 6
+https://s131.vidboo.com/6jmnvr2oxuazsalrivyabjhtlwjtdmnerjiwfimntbd2agrjd7mbcxkdewxa/v.mp4
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 7" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 7
+https://s132.vidboo.com/6jmnrrsoxuazsalrivyab47jlofyaxgua6dfvb6b4ii46whbn6xdebgubtyq/v.mp4
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 8" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 8
+https://s122.vidboo.com/6jmnrrkoxuazsalrivyaby5xi573azx4ep7uxkud2fdqsv2vtkipxlszocfa/v.mp4
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 9" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 9
+https://s131.vidboo.com/6jmnrrcoxuazsalrivyab7fuaxneqbv7qa2355qnrla5rumhnwod3nibmkgq/v.mp4
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 10" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 10
+https://s122.vidboo.com/6jmnrqsoxuazsalrivyab6hiluvw43o2rm6x7q46lpz745fkbf2ahk6r3w2q/v.mp4
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 11" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 11
+https://s125.vidboo.com/6jmnvqcoxuazsalrivyabiftbm2hj433po6lobb2onlimsig7pyjx2xbmpdq/v.mp4
+#EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode 12" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode 12
+https://s92.vidboo.com/6jmnx7soxuazsalrivyab4hkle3o6nbiul2b7b55bg5fi7v5v4oqpgkchbua/v.mp4
 #EXTINF:-1 tvg-name="Himouto! Umaru-Chan | Episode OVA" tvg-logo="https://m.media-amazon.com/images/I/515a6kJJknS._AC_SY780_.jpg" group-title="Anime",Himouto! Umaru-Chan | Episode OVA
 https://s130.vidboo.com/6jmnr7koxuazsalrivyab4pbksyc7ntysj4mzzqw2peodpuban5bxcnovq4a/v.mp4
