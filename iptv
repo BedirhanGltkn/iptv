@@ -16,6 +16,26 @@ http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/531
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3088
 #EXTINF:-1 tvg-name="Sport TV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-s-sport-657.png" group-title="Spor",Sport TV HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3018
+
+#EXTINF:-1 tvg-name="beIn Series Comedy" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/326/Image/bein_series_logos-02.png" group-title="Sinema/Film",beIn Series Comedy
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3077
+#EXTINF:-1 tvg-name="beIn Movies Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png" group-title="Sinema/Film",beIn Movies Stars
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3078
+#EXTINF:-1 tvg-name="beIn Movies Premiere 1" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/271/Image/ben-movies-logos-disi-01.png" group-title="Sinema/Film",beIn Movies Premiere 1
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3081
+#EXTINF:-1 tvg-name="beIn Movies Premiere 2" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/271/Image/ben-movies-logos-disi-01.png" group-title="Sinema/Film",beIn Movies Premiere 2
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3079
+#EXTINF:-1 tvg-name="beIn Movies Premiere 3" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/271/Image/ben-movies-logos-disi-01.png" group-title="Sinema/Film",beIn Movies Premiere 3
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3097
+#EXTINF:-1 tvg-name="beIn Movies Family" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/335/Image/ben-movies-logos-disi-06.png" group-title="Sinema/Film",beIn Movies Family
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3080
+#EXTINF:-1 tvg-name="beIn Movies Action 1" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/453/Image/ben-movies-logos-disi-02.png" group-title="Sinema/Film",beIn Movies Action 1
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3085
+#EXTINF:-1 tvg-name="beIn Movies Action 2" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/453/Image/ben-movies-logos-disi-02.png" group-title="Sinema/Film",beIn Movies Action 2
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3084
+#EXTINF:-1 tvg-name="Dizi Smart MAX" tvg-logo="http://mediapool-content.de/wp-content/uploads/senderlogos/10190.png" group-title="Sinema/Film",Dizi Smart MAX
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3118
+
 #EXTINF:-1 tvg-name="TRT Belgesel HD" tvg-logo="https://scontent.fist13-1.fna.fbcdn.net/v/t1.6435-1/p148x148/49686195_2550486701658196_5787434170405879808_n.jpg?_nc_cat=1&ccb=1-4&_nc_sid=1eb0c7&_nc_ohc=VRYXcJTuSXgAX-9HNjp&_nc_ht=scontent.fist13-1.fna&oh=68e2ea5a056331faedae5d2c9a4c2072&oe=61387FEA" group-title="Belgesel",TRT Belgesel HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3013
 #EXTINF:-1 tvg-name="Nat Geo HD" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="Belgesel",Nat Geo HD
