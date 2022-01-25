@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-name="Başakşehir 1.Etap" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" group-title="Basakşehir",Başakşehir 1.Etap
 https://601a5ce60b9a1.streamlock.net/hls/558.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="İkitelli 4 Nolu Kavşak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" group-title="Basakşehir",İkitelli 4 Nolu Kavşak
-https://601a43eea2819.streamlock.net/hls/517.stream/media-uluupvby9_651.m3u8
+https://601a43eea2819.streamlock.net/hls/517.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="KCO İkitelli OSB Kavşak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" group-title="Basakşehir",KCO İkitelli OSB Kavşak
-https://601a43eea2819.streamlock.net/hls/517.stream/media-uluupvby9_651.m3u8
+https://601a5ce60b9a1.streamlock.net/hls/666.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="İkitelli Atatürk Bulvarı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" group-title="Basakşehir",İkitelli Atatürk Bulvarı
-https://601a43eea2819.streamlock.net/hls/517.stream/media-uluupvby9_651.m3u8
+https://601a5ce60b9a1.streamlock.net/hls/569.stream/chunklist.m3u8
