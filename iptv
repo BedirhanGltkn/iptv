@@ -1,66 +1,8 @@
-#EXTINF:-1 tvg-name="beIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Spor",beIN Sports 1 HD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3076
-#EXTINF:-1 tvg-name="beIN Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Spor",beIN Sports 2 HD
-#EXTINF:-1 tvg-name="beIN Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/85/BeIN_SPORTS_HD_3_2018_logo1.jpg" group-title="Spor",beIN Sports 3 HD
-http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/525
-#EXTINF:-1 tvg-name="beIN Sports 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Spor",beIN Sports 4 HD
-http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/526
-#EXTINF:-1 tvg-name="Tivibu Sport 1 HD" tvg-logo="https://img2.pngindir.com/20181115/zg/kisspng-uefa-europa-league-europe-tivibu-spor-logo-tivibu-spor-5bee451281e8f3.1731588115423419065321.jpg" group-title="Spor",Tivibu Sport 1 HD
-http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/529
-#EXTINF:-1 tvg-name="Tivibu Sport 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tivibu-spor-2-649.png" group-title="Spor",Tivibu Sport 2 HD
-http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/530
-#EXTINF:-1 tvg-name="Tivibu Sport 3 HD" tvg-logo="https://img2.pngindir.com/20180614/qpx/kisspng-galatasaray-s-k-tivibu-spor-sport-high-definition-am-logo-5b22be7bed4792.5463565615290036439719.jpg" group-title="Spor",Tivibu Sport 3 HD
-http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/531
-#EXTINF:-1 tvg-name="beIN Sports Haber HD" tvg-logo="http://contentlibrary.digiturk.com.tr/News/2305/Image/haber_kanali_acildi_ayrinti.png" group-title="Spor",beIN Sports Haber HD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3088
-#EXTINF:-1 tvg-name="Sport TV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-s-sport-657.png" group-title="Spor",Sport TV HD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3018
-
-#EXTINF:-1 tvg-name="beIn Series Comedy" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/326/Image/bein_series_logos-02.png" group-title="Sinema/Film",beIn Series Comedy
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3077
-#EXTINF:-1 tvg-name="beIn Movies Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png" group-title="Sinema/Film",beIn Movies Stars
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3078
-#EXTINF:-1 tvg-name="beIn Movies Premiere 1" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/271/Image/ben-movies-logos-disi-01.png" group-title="Sinema/Film",beIn Movies Premiere 1
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3081
-#EXTINF:-1 tvg-name="beIn Movies Premiere 2" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/271/Image/ben-movies-logos-disi-01.png" group-title="Sinema/Film",beIn Movies Premiere 2
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3079
-#EXTINF:-1 tvg-name="beIn Movies Premiere 3" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/271/Image/ben-movies-logos-disi-01.png" group-title="Sinema/Film",beIn Movies Premiere 3
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3097
-#EXTINF:-1 tvg-name="beIn Movies Family" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/335/Image/ben-movies-logos-disi-06.png" group-title="Sinema/Film",beIn Movies Family
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3080
-#EXTINF:-1 tvg-name="beIn Movies Action 1" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/453/Image/ben-movies-logos-disi-02.png" group-title="Sinema/Film",beIn Movies Action 1
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3085
-#EXTINF:-1 tvg-name="beIn Movies Action 2" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/453/Image/ben-movies-logos-disi-02.png" group-title="Sinema/Film",beIn Movies Action 2
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3084
-#EXTINF:-1 tvg-name="Dizi Smart MAX" tvg-logo="http://mediapool-content.de/wp-content/uploads/senderlogos/10190.png" group-title="Sinema/Film",Dizi Smart MAX
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3118
-#EXTINF:-1 tvg-name="Sinema TV" tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png" group-title="Sinema/Film",Sinema TV
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3120
-#EXTINF:-1 tvg-name="Sinema TV AKSIYON" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/76/Sinema_TV_Aksiyon_logosu.png" group-title="Sinema/Film",Sinema TV AKSIYON
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3121
-#EXTINF:-1 tvg-name="Sinema TV AİLE" tvg-logo="http://aile2.sinematv.com.tr/content/contact/sinema_aile.png" group-title="Sinema/Film",Sinema TV AİLE
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3122
-
-
-
-#EXTINF:-1 tvg-name="TRT Belgesel HD" tvg-logo="https://scontent.fist13-1.fna.fbcdn.net/v/t1.6435-1/p148x148/49686195_2550486701658196_5787434170405879808_n.jpg?_nc_cat=1&ccb=1-4&_nc_sid=1eb0c7&_nc_ohc=VRYXcJTuSXgAX-9HNjp&_nc_ht=scontent.fist13-1.fna&oh=68e2ea5a056331faedae5d2c9a4c2072&oe=61387FEA" group-title="Belgesel",TRT Belgesel HD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3013
-#EXTINF:-1 tvg-name="Nat Geo HD" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="Belgesel",Nat Geo HD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3069
-#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Belgesel",Nat Geo Wild HD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3059
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Belgesel",Animal Planet HD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3058
-#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Belgesel",Discovery Channel HD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3060
-#EXTINF:-1 tvg-name="Discovery SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Belgesel",Discovery SCIENCE HD
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3111
-#EXTINF:-1 tvg-name="History" tvg-logo="https://toppng.com/uploads/preview/svg-history-channel-logo-11563164932b5ivkmf3wa.png" group-title="Belgesel",History
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3047
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/BBC_Earth_logo.png" group-title="Belgesel",BBC Earth
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3041
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Belgesel",TLC
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/3050
-
-#EXTINF:-1 tvg-name="Himouto! Umaru Chan | Episode 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515a6kJJknS._SX349_BO1,204,203,200_.jpg" group-title="Anime",Himouto! Umaru Chan | Episode 1
-https://vd198.mycdn.me/?expires=1629144263615&srcIp=95.70.129.112&srcAg=CHROME&ms=45.136.22.6&type=3&sig=Hw92KBcEh2w&ct=4&urls=185.226.52.4&clientType=0&id=51164219960&bytes=0-2842
+#EXTINF:-1 tvg-name="Başakşehir 1.Etap" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" group-title="Basakşehir",Başakşehir 1.Etap
+https://601a5ce60b9a1.streamlock.net/hls/558.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="İkitelli 4 Nolu Kavşak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" group-title="Basakşehir",İkitelli 4 Nolu Kavşak
+https://601a43eea2819.streamlock.net/hls/517.stream/media-uluupvby9_651.m3u8
+#EXTINF:-1 tvg-name="KCO İkitelli OSB Kavşak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" group-title="Basakşehir",KCO İkitelli OSB Kavşak
+https://601a43eea2819.streamlock.net/hls/517.stream/media-uluupvby9_651.m3u8
+#EXTINF:-1 tvg-name="İkitelli Atatürk Bulvarı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" group-title="Basakşehir",İkitelli Atatürk Bulvarı
+https://601a43eea2819.streamlock.net/hls/517.stream/media-uluupvby9_651.m3u8
